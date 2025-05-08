@@ -1,7 +1,4 @@
 <p align = "center">
-	<img src = "https://komarev.com/ghpvc/?username=10kartik&style=plastic&color=blueviolet" alt = "Profile Views"/>
-</p>
-<p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
@@ -16,7 +13,7 @@
 <br>
 <div>
   <div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Hey%2C+Soy+Gabriel;Bienvenido+a+mi+perfil+ de+GitHub;Creativo+y+Curioso+por+naturaleza;Estudiante+de+DAM;Amante+de+java+y+videojuegos;Trabajador+y+Ambicioso;Adoro+la+música+y+programar" alt="Typing SVG" /></a>
+      <h1>Buenas a todos soy Gabriel<h1>
   </div>
 </div>
 
