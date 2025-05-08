@@ -11,17 +11,17 @@
 ![Top of pokeball](https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png)
 
 <details>
-<summary>Open profile</summary>
+<summary>Abrir perfil</summary>
 
 <br>
 <div>
   <div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Kartik;Welcome+to+My+GitHub+Profile;Inquisitive+and+Curious+by+nature;Software+and+Computer+Engineer;Backend+and+iOS+Developer;CS2+and+Football+Lover;Hardworking+and+Ambitious;Gym+Freak;Music+and+Programming+Lover" alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Hey%2C+Soy+Gabriel;Bienvenido+a+mi+perfil+ de+GitHub;Creativo+y+Curioso+por+naturaleza;Estudiante+de+DAM;Amante+de+java+y+videojuegos;Trabajador+y+Ambicioso;Adoro+la+música+y+programar" alt="Typing SVG" /></a>
   </div>
 </div>
 
 <details>
-<summary>About me</summary>
+<summary>Sobre mí</summary>
 
 [//]: # (You must have a lf before the markdown element when inside a block for it to work: https://stackoverflow.com/questions/29368902/how-can-i-wrap-my-markdown-in-an-html-div)
 
@@ -51,7 +51,7 @@
 </details>
 
 <details>
-<summary>Tools</summary>
+<summary>Herramientas</summary>
 <div>
   <p style="display: inline-block;" align="center">
     <kbd>
@@ -95,18 +95,7 @@
 </details>
 
 <details>
-  <summary>Open Source Contributions</summary>
-  <br>
-  <ul>
-    <li><strong>MDN Docs - Official JavaScript Docs:</strong> Contributed to improving and maintaining the official JavaScript documentation on MDN Web Docs.</li>
-    <li><strong>Pinterest - Pymemcache:</strong> Made contributions to the Pymemcache project on Pinterest, an efficient Python client for the memcached caching system.</li>
-    <li><strong>The Algorithms - JavaScript and C++:</strong> Contributed to The Algorithms repository, particularly in JavaScript and C++ implementations of various algorithms and data structures.</li>
-   <li><strong>True Sparrow - NftorNot.com, WhisperChain.xyz, AI SalesSparrow:</strong> Led the development of projects from inception to production under True Sparrow.</li>
-  </ul>
-</details>
-
-<details>
-  <summary>Quote</summary>
+  <summary>Cuota</summary>
   <br>
   <blockquote>
     “Un ordenador puede ser llamada inteligente si logra engañar a una persona haciéndole creer que es un humano..”
@@ -123,7 +112,7 @@
 </details>
 
 <details>
-<summary>What can I do for you?</summary>
+<summary>¿Qué puedo hacer por tí?</summary>
 <table style="border: none">
   <tr>
   <td width="50%" valign="top">
