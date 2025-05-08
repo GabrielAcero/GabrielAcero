@@ -114,11 +114,6 @@
   <tr>
   <td width="50%" valign="top">
 
-[//]: # (Fighting against markdown and blocks isn't easy, indentation is catastrophic)
-
-  </td>
-  <td width="50%" valign="top">
-
 ## It's not perfect, isn't it?
 
 **<img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">**
@@ -137,4 +132,4 @@
 ------
 Credit: [10Kartik](https://github.com/10Kartik)
 
-Last Edited on: 18/01/2024
+Last Edited on: 08/05/2025
